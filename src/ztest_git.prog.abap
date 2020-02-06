@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZTEST_GIT.
 write 'Test abap git'.
-Write 'Version2'.
+Write 'Version21'.
