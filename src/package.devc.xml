@@ -4,6 +4,8 @@
   <asx:values>
    <DEVC>
     <CTEXT>Test ABAP GIT</CTEXT>
+    <INTFPREFX>109-00</INTFPREFX>
+    <PACKTYPE>H</PACKTYPE>
     <SRV_CHECK>X</SRV_CHECK>
    </DEVC>
   </asx:values>
